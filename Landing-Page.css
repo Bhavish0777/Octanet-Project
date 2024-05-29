@@ -44,12 +44,12 @@ top.overlay {
   font-size: 4vw;
 }
 .text .image {
-  background-image: url(https://cdn.pixabay.com/photo/2022/11/07/21/31/rose-7577265_1280.jpg);
+  background-image: url(https://cdn.pixabay.com/photo/2015/06/25/14/13/fern-821293_960_720.jpg);
   background-size: cover;
   background-position: center;
   height: 300px;
   width: 220px;
-  border-radius: 40%;
+  border-radius: 20%;
 }
 .icons {
   color: rgb(253, 194, 1);
@@ -80,7 +80,7 @@ top.overlay {
   text-align: center;
   padding: 30px;
   color: aliceblue;
-  text-shadow: 3px 3px #3f13f0;
+
 }
 .b1 p {
   color: white;
@@ -104,7 +104,7 @@ top.overlay {
   text-align: center;
   padding: 30px;
   color: aliceblue;
-  text-shadow: 3px 3px #4a0ecd;
+
 }
 .b2 .up p1 {
   color: white;
@@ -121,7 +121,7 @@ top.overlay {
 }
 .b2 .down h1 {
   color: white;
-  text-shadow: 3px 3px #3312d9;
+ 
 }
 .b2 .down .overlay {
   position: relative;
